@@ -19,7 +19,7 @@ I am an expert in full-stack development, network configuration, and Docker-base
 - :movie_camera: I love watching movies.
 - :snake: Exploring Python.
 - :sunrise_over_mountains: My hobby is camping.
-- :mailbox: How to reach me: anapiyaevs0519@gmail.com
+- :mailbox: How to reach me: drycov@gmail.com
 
 ---
 
