@@ -2,9 +2,7 @@
 
 I'm a **full-stack developer** with expertise in **network configuration** and **Docker-based systems**. Passionate about **high-performance web applications**, **containerization**, and **network administration**.
 
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/ваш_аккаунт)
-[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white)](https://linkedin.com/in/ваш_профиль)
-[![Telegram Badge](https://img.shields.io/badge/-Telegram-0088CC?style=flat&logo=Telegram&logoColor=white)](https://t.me/@ITISIDevRykov)
+[![Telegram Badge](https://img.shields.io/badge/-Telegram-0088CC?style=flat&logo=Telegram&logoColor=white)](https://t.me/ITISIDevRykov)
 
 ---
 
@@ -49,4 +47,4 @@ I'm a **full-stack developer** with expertise in **network configuration** and *
 
 ## 📫 Contact Me
 - Email: [drycov@gmail.com](mailto:drycov@gmail.com)
-- Telegram: [@ITISIDevRykov](https://t.me/@ITISIDevRykov)
+- Telegram: [@ITISIDevRykov](https://t.me/ITISIDevRykov)
