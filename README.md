@@ -1,8 +1,10 @@
 ## Hi there! 👋
+[![Visitors](https://komarev.com/ghpvc/?username=drycov&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/drycov)
+[![GitHub Followers](https://img.shields.io/github/followers/drycov?label=Follow&style=social)](https://github.com/drycov)
+[![Telegram Badge](https://img.shields.io/badge/-Telegram-0088CC?style=flat&logo=Telegram&logoColor=white)](https://t.me/ITISIDevRykov)
 
 I'm a **full-stack developer** with expertise in **network configuration** and **Docker-based systems**. Passionate about **high-performance web applications**, **containerization**, and **network administration**.
 
-[![Telegram Badge](https://img.shields.io/badge/-Telegram-0088CC?style=flat&logo=Telegram&logoColor=white)](https://t.me/ITISIDevRykov)
 
 ---
 
